@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+F:\GIT\test\xmtest\.metadata\.plugins\org.eclipse.jdt.core
+1170770509.index
+3271193799.index
+612545306.index
+692253758.index
+2097549980.index
+3185794214.index
+4236931864.index
+2311114283.index
+2258289070.index
+1746991013.index
+2437860784.index
